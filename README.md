@@ -47,16 +47,11 @@
 
 <p> 
 <a href="https://github.com/Gayratoff?tab=followers">
-    <img src="https://img.shields.io/github/followers/azamat684?label=Followers&style=social" alt="followers-count">
+    <img src="https://img.shields.io/github/followers/Gayratoff?label=Followers&style=social" alt="followers-count">
 </a>
 
 </p>
 
-<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
-
-
-<!--## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azikk_0418) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azikk_2oo7) -->
 
 <p>
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
@@ -68,5 +63,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gayratoff&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
