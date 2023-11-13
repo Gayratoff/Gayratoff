@@ -9,7 +9,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/Gayratoff/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gayratoff&theme=tokyonight_duo&hide_border=true)](https://github.com/Gayratoff/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
