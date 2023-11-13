@@ -1,11 +1,11 @@
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azamat684&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
+![](https://github-readme-stats.vercel.app/api?username=Gayratoff&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayratoff&theme=github_dark" alt="info">
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,git,postgresql,mysql,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
 
 
 
@@ -30,6 +30,7 @@
 ## Databases
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
 
