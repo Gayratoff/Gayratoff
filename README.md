@@ -5,7 +5,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,git,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
 
 
 
