@@ -5,7 +5,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,fastapi,postgresql,mysql,sqlite,bootstrap,vscode,html,css,javascript,nodejs)](https://skillicons.dev)
 
 
 
@@ -17,6 +17,7 @@
 ## Back-end
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0aad48?style=flat-square&logo=Fastapi)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
@@ -29,8 +30,8 @@
 
 ## Databases
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
 
@@ -41,8 +42,8 @@
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xudoberdigayratov@gmail.com)](mailto:xudoberdigaryatov@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MrGayratov)](https://t.me/MrGayratov)
 
 <p> 
 <a href="https://github.com/Gayratoff?tab=followers">
@@ -54,17 +55,18 @@
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azikk_0418) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azikk_2oo7) 
+<!--## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azikk_0418) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azikk_2oo7) -->
 
 <p>
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
+    <img src="https://img.icons8.com/color/96/000000/mysql.png"/>
 </p>
 
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azamat684&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gayratoff&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
