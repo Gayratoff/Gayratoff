@@ -5,11 +5,11 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,git,postgresql,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,git,postgresql,mysql,bootstrap,vscode,html,css,javascript,)](https://skillicons.dev)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/azamat684/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/Gayratoff/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
@@ -44,7 +44,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
 
 <p> 
-<a href="https://github.com/azamat684?tab=followers">
+<a href="https://github.com/Gayratoff?tab=followers">
     <img src="https://img.shields.io/github/followers/azamat684?label=Followers&style=social" alt="followers-count">
 </a>
 
