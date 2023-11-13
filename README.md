@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azamat684&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamat684&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayratoff&theme=github_dark" alt="info">
 
 # 💻 Tech Stack:
 
